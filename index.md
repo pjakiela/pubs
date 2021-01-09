@@ -39,11 +39,9 @@ _Joint with Owen Ozier_
 <summary>Abstract</summary>
 We estimate the impact of Kenya’s post-election crisis on individual risk preferences. The crisis interrupted a longitudinal survey of more than five thousand Kenyan youth, creating plausibly exogenous variation in exposure to civil conflict prior to the survey. Our results indicate that the post-election crisis sharply increased individual risk aversion. Immediately after the crisis, the fraction of subjects displaying extreme risk aversion increased by more than 80 percent. Findings remain robust when we use an IV estimation strategy that exploits random assignment of respondents to waves of surveying. The crisis also impacted trust, social capital, and beliefs about the economy.
 </details> 
-<br>
 <div style="text-align: right"> Media Coverage: </div>
 <div style="text-align: right"><a
  href="https://soundcloud.com/user-845572280/does-violence-increase-risk-aversion-drs-pamela-jakiela-owen-ozier"> Four Questions Podcast with Alice Evans </a></div>
-
 
 <br>
 [Unconditional Cash Transfers for Clinical and Economic Outcomes Among HIV-Affected Ugandan Households:  A Bayesian Randomised Trial](https://journals.lww.com/aidsonline/Fulltext/2018/09100/Unconditional_cash_transfers_for_clinical_and.13.aspx)  
