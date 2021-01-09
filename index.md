@@ -1,7 +1,7 @@
-## Research
-
-#### Publications  
-[How Soon Is Now?  Evidence of Present Bias from Convex Time Budget Experiments](EXEX-BalakrishnanHaushoferJakiela-CTB.pdf)
+# Publications  
+[How Soon Is Now?  Evidence of Present Bias from Convex Time Budget Experiments](EXEX-BalakrishnanHaushoferJakiela-CTB.pdf)  
+*_Experimental Economics, 2020, 23: 294-321_*  
+_Joint with Uttara Balakrishnan and Johannes Haushofer_  
 <details>
 <summary>Abstract</summary>
 Empirically observed intertemporal choices about money have long been thought to exhibit present bias, i.e. higher short-term compared to long-term discount rates. Recently, this view has been called into question on both empirical and theoretical grounds, and a spate of recent findings suggest that present bias for money is minimal or non-existent when one allows for curvature in the utility function and transaction costs are tightly controlled. However, an alternative interpretation of many of these ndings is that, in the interest of equalizing transaction costs across earlier and later payments, small delays were introduced between the time of the experiment and the soonest payment. We conduct a laboratory experiment in Kenya in which we elicit time and risk preference parameters from 494 participants, using convex time budgets and tightly controlling for transaction costs. We vary whether same-day payments are made immediately after the experimental session or at the close of the business day. Using the Kenyan mobile money system M-Pesa to make real-time transfers to subjects' phones allows us to make the soonest payments truly immediate. We find strong evidence of present bias, with estimates of the present bias parameter ranging from 0.902 to 0.924 - but only when same-day payments are made immediately after the experiment. This result suggests that present bias for money does in fact exist, but only for truly immediate payments.
