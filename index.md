@@ -35,7 +35,36 @@ In many low‐ and middle‐income countries, young children learn a mother tong
 [The Impact of Violence on Individual Risk Preferences:  Evidence from a Natural Experiment](http://www.pamjakiela.com/JakielaOzier-risk-final-with-appendix.pdf)  
 **_Review of Economics and Statistics, 2019, 101(3): 547-549_**  
 _Joint with Owen Ozier_  
+<details>
+<summary>Abstract</summary>
+We estimate the impact of Kenya’s post-election crisis on individual risk preferences. The crisis interrupted a longitudinal survey of more than five thousand Kenyan youth, creating plausibly exogenous variation in exposure to civil conflict prior to the survey. Our results indicate that the post-election crisis sharply increased individual risk aversion. Immediately after the crisis, the fraction of subjects displaying extreme risk aversion increased by more than 80 percent. Findings remain robust when we use an IV estimation strategy that exploits random assignment of respondents to waves of surveying. The crisis also impacted trust, social capital, and beliefs about the economy.
+</details> 
 <div style="text-align: right"> Media Coverage: </div>
 <div style="text-align: right"><a
  href="https://soundcloud.com/user-845572280/does-violence-increase-risk-aversion-drs-pamela-jakiela-owen-ozier"> Four Questions Podcast with Alice Evans </a></div>
+
+<br>
+[Unconditional Cash Transfers for Clinical and Economic Outcomes Among HIV-Affected Ugandan Households:  A Bayesian Randomised Trial](https://journals.lww.com/aidsonline/Fulltext/2018/09100/Unconditional_cash_transfers_for_clinical_and.13.aspx)  
+**_AIDS, 2018, 32(14): 2023-2031_**  
+_Joint with Ed Mills, Achyuta Adhvaryu, Josephine Birungi, Stephen Okoboi, Teddy Chimulwa, Wangisi Jonathan, Tina Achilla, Evan Popoff, Shirin Golchi, and Dean Karlan_  
+<details>
+<summary>Abstract</summary>
+
+Background: 
+
+HIV infection has profound clinical and economic costs at the household level. This is particularly important in low-income settings, where access to additional sources of income or loans may be limited. While several microfinance interventions have been proposed, unconditional cash grants, a strategy to allow participants to choose how to use finances that may improve household security and health, has not previously been evaluated.
+
+Methods: 
+
+We examined the effect of an unconditional cash transfer to HIV-infected individuals using a 2 × 2 factorial randomized trial in two rural districts in Uganda. Our primary outcomes were changes in CD4+ cell count, sexual behaviors, and adherence to ART. Secondary outcomes were changes in household food security and adult mental health. We applied a Bayesian approach for our primary analysis.
+
+Results: 
+
+We randomized 2170 patients as participants, with 1081 receiving a cash grant. We found no important intervention effects on CD4+ T-cell counts between groups [mean difference 35.48, 95% credible interval (CrI) −59.9 to 1131.6], food security [odds ratio (OR) 1.22, 95% CrI: 0.47 to 3.02], medication adherence (OR 3.15, 95% CrI: 0.58 to 18.15), or sexual behavior (OR 0.45 95% CrI: 0.12 to 1.55), or health expenditure in the previous 3 weeks (mean difference $2.65, 95% CrI: −9.30 to 15.69). In secondary analysis, we detected an effect of mental planning on CD4+ cell count change between groups (104.2 cells, 9% CrI: 5.99 to 202.16). We did not have data on viral load outcomes.
+
+#### Conclusion: 
+
+Although all outcomes were associated with favorable point estimates, our trial did not demonstrate important effects of unconditional cash grants on health outcomes of HIV-positive patients receiving treatment.
+
+</details> 
 
