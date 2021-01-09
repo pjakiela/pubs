@@ -1,7 +1,5 @@
 # Research
 
-<br>
-
 ## Working Papers
 [Big Sisters](https://www.cgdev.org/publication/big-sisters)  
 **_CGD Working Paper 559 (October 2020)_**  
