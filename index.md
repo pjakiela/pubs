@@ -30,3 +30,12 @@ _Joint with Lia Fernald, Patricia Kariger, Heather Knauer, and Owen Ozier_
 <summary>Abstract</summary>
 In many low‐ and middle‐income countries, young children learn a mother tongue or indigenous language at home before entering the formal education system where they will need to understand and speak a country's official language(s). Thus, assessments of children before school age, conducted in a nation's official language, may not fully reflect a child's development, underscoring the importance of test translation and adaptation. To examine differences in vocabulary development by language of assessment, we adapted and validated instruments to measure developmental outcomes, including expressive and receptive vocabulary. We assessed 505 2‐to‐6‐year‐old children in rural communities in Western Kenya with comparable vocabulary tests in three languages: Luo (the local language or mother tongue), Swahili, and English (official languages) at two time points, 5–6 weeks apart, between September 2015 and October 2016. Younger children responded to the expressive vocabulary measure exclusively in Luo (44%–59% of 2‐to‐4‐year‐olds) much more frequently than did older children (20%–21% of 5‐to‐6‐year‐olds). Baseline receptive vocabulary scores in Luo (β = 0.26, SE = 0.05, p < 0.001) and Swahili (β = 0.10, SE = 0.05, p = 0.032) were strongly associated with receptive vocabulary in English at follow‐up, even after controlling for English vocabulary at baseline. Parental Luo literacy at baseline (β = 0.11, SE = 0.05, p = 0.045) was associated with child English vocabulary at follow‐up, while parental English literacy at baseline was not. Our findings suggest that multilingual testing is essential to understanding the developmental environment and cognitive growth of multilingual children.
 </details> 
+
+<br>
+[The Impact of Violence on Individual Risk Preferences:  Evidence from a Natural Experiment](http://www.pamjakiela.com/JakielaOzier-risk-final-with-appendix.pdf)  
+**_Review of Economics and Statistics, 2019, 101(3): 547-549_**  
+_Joint with Owen Ozier_  
+<div style="text-align: right"> Media Coverage: </div>
+<div style="text-align: right"><a
+ href="https://soundcloud.com/user-845572280/does-violence-increase-risk-aversion-drs-pamela-jakiela-owen-ozier"> Four Questions Podcast with Alice Evans </a></div>
+
