@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Research
 logo:  patizathing.jpg
+github:
+    is_project_page: false
