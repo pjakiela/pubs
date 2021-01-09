@@ -42,8 +42,6 @@ _Joint with Owen Ozier_
 We estimate the impact of Kenya’s post-election crisis on individual risk preferences. The crisis interrupted a longitudinal survey of more than five thousand Kenyan youth, creating plausibly exogenous variation in exposure to civil conflict prior to the survey. Our results indicate that the post-election crisis sharply increased individual risk aversion. Immediately after the crisis, the fraction of subjects displaying extreme risk aversion increased by more than 80 percent. Findings remain robust when we use an IV estimation strategy that exploits random assignment of respondents to waves of surveying. The crisis also impacted trust, social capital, and beliefs about the economy.
 </details> 
 
-<br>
-
 <div style="text-align: right"> Media Coverage: </div>
 <div style="text-align: right"><a
  href="https://soundcloud.com/user-845572280/does-violence-increase-risk-aversion-drs-pamela-jakiela-owen-ozier"> Four Questions Podcast with Alice Evans </a></div>
@@ -89,8 +87,6 @@ effective tax rate nearly doubles when kin can observe income directly. At the v
 income hidden in the laboratory experiment and worse economic outcomes outside the laboratory.
 </details>
 
-<br>
-
 <div style="text-align: right"> Media Coverage: </div>
 <div style="text-align: right"><a
  href="https://www.npr.org/sections/goatsandsoda/2017/09/13/542261863/cash-aid-changed-this-family-s-life-so-why-is-their-government-skeptical"> NPR: An Experiment Gives Cash Aid To The Poor. Is That Ethical? </a></div>
@@ -105,7 +101,6 @@ _Joint with Raymond Fisman, Shachar Kariv, and Daniel Markovits_
 <summary>Abstract</summary>
 We studied the distributional preferences of an elite cadre of Yale Law School students, a group that will assume positions of power in U.S. society. Our experimental design allows us to test whether redistributive decisions are consistent with utility maximization and to decompose underlying preferences into two qualitatively different tradeoffs: fair-mindedness versus self-interest, and equality versus efficiency. Yale Law School subjects are more consistent than subjects drawn from the American Life Panel, a diverse sample of Americans. Relative to the American Life Panel, Yale Law School subjects are also less fair-minded and substantially more efficiency-focused. We further show that our measure of equality-efficiency tradeoffs predicts Yale Law School students’ career choices: Equality-minded subjects are more likely to be employed at nonprofit organizations.
 </details>
-<br>
 
 <div style="text-align: right"> Media Coverage: </div>
 <div style="text-align: right"><a
