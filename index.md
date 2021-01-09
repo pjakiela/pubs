@@ -49,22 +49,22 @@ We estimate the impact of Kenya’s post-election crisis on individual risk pref
 _Joint with Ed Mills, Achyuta Adhvaryu, Josephine Birungi, Stephen Okoboi, Teddy Chimulwa, Wangisi Jonathan, Tina Achilla, Evan Popoff, Shirin Golchi, and Dean Karlan_  
 <details>
 <summary>Abstract</summary>
-
 Background: 
-
 HIV infection has profound clinical and economic costs at the household level. This is particularly important in low-income settings, where access to additional sources of income or loans may be limited. While several microfinance interventions have been proposed, unconditional cash grants, a strategy to allow participants to choose how to use finances that may improve household security and health, has not previously been evaluated.
-
 Methods: 
-
 We examined the effect of an unconditional cash transfer to HIV-infected individuals using a 2 × 2 factorial randomized trial in two rural districts in Uganda. Our primary outcomes were changes in CD4+ cell count, sexual behaviors, and adherence to ART. Secondary outcomes were changes in household food security and adult mental health. We applied a Bayesian approach for our primary analysis.
-
 Results: 
-
 We randomized 2170 patients as participants, with 1081 receiving a cash grant. We found no important intervention effects on CD4+ T-cell counts between groups [mean difference 35.48, 95% credible interval (CrI) −59.9 to 1131.6], food security [odds ratio (OR) 1.22, 95% CrI: 0.47 to 3.02], medication adherence (OR 3.15, 95% CrI: 0.58 to 18.15), or sexual behavior (OR 0.45 95% CrI: 0.12 to 1.55), or health expenditure in the previous 3 weeks (mean difference $2.65, 95% CrI: −9.30 to 15.69). In secondary analysis, we detected an effect of mental planning on CD4+ cell count change between groups (104.2 cells, 9% CrI: 5.99 to 202.16). We did not have data on viral load outcomes.
-
-#### Conclusion: 
-
+Conclusion: 
 Although all outcomes were associated with favorable point estimates, our trial did not demonstrate important effects of unconditional cash grants on health outcomes of HIV-positive patients receiving treatment.
-
 </details> 
 
+<br>
+[Distributional Preferences and Political Behavior](http://pamjakiela.com/FismanJakielaKarivALP-2017-accepted.pdf)  
+**_Journal of Public Economics, 2017, 155: 1-10_**  
+_Joint with Raymond Fisman and Shachar Kariv_  
+[Online Appendix](http://pamjakiela.com/ALPappendix-2014-08-28.pdf)  
+<details>
+<summary>Abstract</summary>
+We document the relationship between distributional preferences and voting decisions in a large and diverse sample of Americans. Using a generalized dictator game, we generate individual-level measures of fair-mindedness (the weight on oneself versus others) and equality-efficiency tradeoffs. Subjects' equality-efficiency tradeoffs predict their political decisions: equality-focused subjects are more likely to have voted for Barack Obama in 2012, and to be affiliated with the Democratic Party. Our findings shed light on how American voters are motivated by their distributional preferences.
+</details> 
