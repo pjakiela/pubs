@@ -35,14 +35,13 @@ In many low‐ and middle‐income countries, young children learn a mother tong
 [The Impact of Violence on Individual Risk Preferences:  Evidence from a Natural Experiment](http://www.pamjakiela.com/JakielaOzier-risk-final-with-appendix.pdf)  
 **_Review of Economics and Statistics, 2019, 101(3): 547-549_**  
 _Joint with Owen Ozier_  
+<div style="text-align: right"> Media Coverage: </div>
+<div style="text-align: right"><a
+ href="https://soundcloud.com/user-845572280/does-violence-increase-risk-aversion-drs-pamela-jakiela-owen-ozier"> Four Questions Podcast with Alice Evans </a></div>
 <details>
 <summary>Abstract</summary>
 We estimate the impact of Kenya’s post-election crisis on individual risk preferences. The crisis interrupted a longitudinal survey of more than five thousand Kenyan youth, creating plausibly exogenous variation in exposure to civil conflict prior to the survey. Our results indicate that the post-election crisis sharply increased individual risk aversion. Immediately after the crisis, the fraction of subjects displaying extreme risk aversion increased by more than 80 percent. Findings remain robust when we use an IV estimation strategy that exploits random assignment of respondents to waves of surveying. The crisis also impacted trust, social capital, and beliefs about the economy.
 </details> 
-
-<div style="text-align: right"> Media Coverage: </div>
-<div style="text-align: right"><a
- href="https://soundcloud.com/user-845572280/does-violence-increase-risk-aversion-drs-pamela-jakiela-owen-ozier"> Four Questions Podcast with Alice Evans </a></div>
 
 <br>
 [Unconditional Cash Transfers for Clinical and Economic Outcomes Among HIV-Affected Ugandan Households:  A Bayesian Randomised Trial](https://journals.lww.com/aidsonline/Fulltext/2018/09100/Unconditional_cash_transfers_for_clinical_and.13.aspx)  
@@ -75,6 +74,11 @@ We document the relationship between distributional preferences and voting decis
 **_Review of Economic Studies, 2016, 83(1): 231-268_**  
 _Joint with Owen Ozier_  
 [Online Appendix](http://pamjakiela.com/JakielaOzier-online-appendix-2015-06-03.pdf)  
+<div style="text-align: right"> Media Coverage: </div>
+<div style="text-align: right"><a
+ href="https://www.npr.org/sections/goatsandsoda/2017/09/13/542261863/cash-aid-changed-this-family-s-life-so-why-is-their-government-skeptical"> NPR: An Experiment Gives Cash Aid To The Poor. Is That Ethical? </a></div>
+<div style="text-align: right"><a
+ href="http://blogs.worldbank.org/impactevaluations/pull-him-down-how-about-pull-her-down"> World Bank's Development Impact Blog </a></div>  
 <details>
 <summary>Abstract</summary>
 This paper measures the economic impacts of social pressures to share income with kin and neighbors in rural Kenyan villages. We conduct a lab experiment in which we
@@ -84,23 +88,11 @@ with relatives attending the experiment. Parameter estimates suggest that women 
 effective tax rate nearly doubles when kin can observe income directly. At the village level, we find an association between willingness to forgo expected return to keep
 income hidden in the laboratory experiment and worse economic outcomes outside the laboratory.
 </details>
-
-<div style="text-align: right"> Media Coverage: </div>
-<div style="text-align: right"><a
- href="https://www.npr.org/sections/goatsandsoda/2017/09/13/542261863/cash-aid-changed-this-family-s-life-so-why-is-their-government-skeptical"> NPR: An Experiment Gives Cash Aid To The Poor. Is That Ethical? </a></div>
-<div style="text-align: right"><a
- href="http://blogs.worldbank.org/impactevaluations/pull-him-down-how-about-pull-her-down"> World Bank's Development Impact Blog </a></div>
  
 <br>
 [The Distributional Preferences of an Elite](https://science.sciencemag.org/content/349/6254/aab0096.full)  
 **_Science, 2015, 349(6254)_**  
-_Joint with Raymond Fisman, Shachar Kariv, and Daniel Markovits_  
-<details>
-<summary>Abstract</summary>
-We studied the distributional preferences of an elite cadre of Yale Law School students, a group that will assume positions of power in U.S. society. Our experimental design allows us to test whether redistributive decisions are consistent with utility maximization and to decompose underlying preferences into two qualitatively different tradeoffs: fair-mindedness versus self-interest, and equality versus efficiency. Yale Law School subjects are more consistent than subjects drawn from the American Life Panel, a diverse sample of Americans. Relative to the American Life Panel, Yale Law School subjects are also less fair-minded and substantially more efficiency-focused. We further show that our measure of equality-efficiency tradeoffs predicts Yale Law School students’ career choices: Equality-minded subjects are more likely to be employed at nonprofit organizations.
-</details>
-
-<div style="text-align: right"> Media Coverage: </div>
+_Joint with Raymond Fisman, Shachar Kariv, and Daniel Markovits_  <div style="text-align: right"> Media Coverage: </div>
 <div style="text-align: right"><a
  href="http://www.nytimes.com/2016/07/03/upshot/how-a-quest-by-elites-is-driving-brexit-and-trump.html?em_pos=small&emc=edit_up_20160701&nl=upshot&nl_art=0&nlid=56075707&ref=headline&te=1&_r=0"> New York Times: How a Quest by Elites Is Driving Brexit and Trump </a></div>
 <div style="text-align: right"><a
@@ -111,3 +103,9 @@ We studied the distributional preferences of an elite cadre of Yale Law School s
  href="http://www.slate.com/articles/news_and_politics/the_dismal_science/2015/09/income_inequality_rich_democrats_don_t_care_about_the_problem_any_more_than.html"> Slate: Why Income Inequality Isn't Going Anywhere </a></div>
 <div style="text-align: right"><a
  href="http://www.citylab.com/work/2015/09/why-politicians-dont-level-the-playing-field/405619/"> The Atlantic: Why Politicians Don't Level the Playing Field </a></div>
+<details>
+<summary>Abstract</summary>
+We studied the distributional preferences of an elite cadre of Yale Law School students, a group that will assume positions of power in U.S. society. Our experimental design allows us to test whether redistributive decisions are consistent with utility maximization and to decompose underlying preferences into two qualitatively different tradeoffs: fair-mindedness versus self-interest, and equality versus efficiency. Yale Law School subjects are more consistent than subjects drawn from the American Life Panel, a diverse sample of Americans. Relative to the American Life Panel, Yale Law School subjects are also less fair-minded and substantially more efficiency-focused. We further show that our measure of equality-efficiency tradeoffs predicts Yale Law School students’ career choices: Equality-minded subjects are more likely to be employed at nonprofit organizations.
+</details>
+
+<br>
