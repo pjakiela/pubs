@@ -1,6 +1,6 @@
 # Publications  
 [How Soon Is Now?  Evidence of Present Bias from Convex Time Budget Experiments](EXEX-BalakrishnanHaushoferJakiela-CTB.pdf)  
-*_Experimental Economics, 2020, 23: 294-321_*  
+**_Experimental Economics, 2020, 23: 294-321_**  
 _Joint with Uttara Balakrishnan and Johannes Haushofer_  
 <details>
 <summary>Abstract</summary>
