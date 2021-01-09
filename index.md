@@ -1,5 +1,7 @@
 # Research
 
+<br>
+
 ## Working Papers
 [Big Sisters](https://www.cgdev.org/publication/big-sisters)  
 **_CGD Working Paper 559 (October 2020)_**  
@@ -68,3 +70,39 @@ _Joint with Raymond Fisman and Shachar Kariv_
 <summary>Abstract</summary>
 We document the relationship between distributional preferences and voting decisions in a large and diverse sample of Americans. Using a generalized dictator game, we generate individual-level measures of fair-mindedness (the weight on oneself versus others) and equality-efficiency tradeoffs. Subjects' equality-efficiency tradeoffs predict their political decisions: equality-focused subjects are more likely to have voted for Barack Obama in 2012, and to be affiliated with the Democratic Party. Our findings shed light on how American voters are motivated by their distributional preferences.
 </details> 
+
+<br>
+[Does Africa Need a Rotten Kin Theorem?  Experimental Evidence from Village Economies](http://pamjakiela.com/JakielaOzier-VillageEconomies-2015-06-04.pdf)  
+**_Review of Economic Studies, 2016, 83(1): 231-268_**  
+_Joint with Owen Ozier_  
+[Online Appendix](http://pamjakiela.com/JakielaOzier-online-appendix-2015-06-03.pdf)  
+<details>
+<summary>Abstract</summary>
+This paper measures the economic impacts of social pressures to share income with kin and neighbors in rural Kenyan villages. We conduct a lab experiment in which we
+randomly vary the observability of investment returns to test whether subjects reduce their income in order to keep it hidden. We find that women adopt an investment
+strategy that conceals the size of their initial endowment in the experiment, though that strategy reduces their expected earnings. This effect is largest among women
+with relatives attending the experiment. Parameter estimates suggest that women anticipate that observable income will be "taxed" at a rate above four percent; this
+effective tax rate nearly doubles when kin can observe income directly. At the village level, we find an association between willingness to forgo expected return to keep
+income hidden in the laboratory experiment and worse economic outcomes outside the laboratory.
+</details>
+<div style="text-align: right"> Media Coverage: </div>
+<div style="text-align: right"><a
+ href="https://www.npr.org/sections/goatsandsoda/2017/09/13/542261863/cash-aid-changed-this-family-s-life-so-why-is-their-government-skeptical"> NPR: An Experiment Gives Cash Aid To The Poor. Is That Ethical? </a></div>
+<div style="text-align: right"><a
+ href="http://blogs.worldbank.org/impactevaluations/pull-him-down-how-about-pull-her-down"> World Bank's Development Impact Blog </a></div>
+ 
+<br>
+[The Distributional Preferences of an Elite](https://science.sciencemag.org/content/349/6254/aab0096.full)  
+**_Science, 2015, 349(6254)_**  
+_Joint with Raymond Fisman, Shachar Kariv, and Daniel Markovits_  
+<div style="text-align: right"> Media Coverage: </div>
+<div style="text-align: right"><a
+ href="http://www.nytimes.com/2016/07/03/upshot/how-a-quest-by-elites-is-driving-brexit-and-trump.html?em_pos=small&emc=edit_up_20160701&nl=upshot&nl_art=0&nlid=56075707&ref=headline&te=1&_r=0"> New York Times: How a Quest by Elites Is Driving Brexit and Trump </a></div>
+<div style="text-align: right"><a
+ href="http://arstechnica.co.uk/science/2015/09/the-elite-dont-hand-out-resources-like-the-rest-of-us/"> Ars Technica: The elite don't hand out resources like the rest of us </a></div>
+<div style="text-align: right"><a
+ href="http://www.thestar.com/news/world/2015/09/18/study-puts-spotlight-on-elites-self-interest.html"> Toronto Star: Study puts spotlight on elite's self-interest </a></div>
+<div style="text-align: right"><a
+ href="http://www.slate.com/articles/news_and_politics/the_dismal_science/2015/09/income_inequality_rich_democrats_don_t_care_about_the_problem_any_more_than.html"> Slate: Why Income Inequality Isn't Going Anywhere </a></div>
+<div style="text-align: right"><a
+ href="http://www.citylab.com/work/2015/09/why-politicians-dont-level-the-playing-field/405619/"> The Atlantic: Why Politicians Don't Level the Playing Field </a></div>
