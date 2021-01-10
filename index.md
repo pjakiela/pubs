@@ -92,7 +92,8 @@ income hidden in the laboratory experiment and worse economic outcomes outside t
 <br>
 [The Distributional Preferences of an Elite](https://science.sciencemag.org/content/349/6254/aab0096.full)  
 **_Science, 2015, 349(6254)_**  
-_Joint with Raymond Fisman, Shachar Kariv, and Daniel Markovits_  <div style="text-align: right"> Media Coverage: </div>
+_Joint with Raymond Fisman, Shachar Kariv, and Daniel Markovits_  
+<div style="text-align: right"> Media Coverage: </div>
 <div style="text-align: right"><a
  href="http://www.nytimes.com/2016/07/03/upshot/how-a-quest-by-elites-is-driving-brexit-and-trump.html?em_pos=small&emc=edit_up_20160701&nl=upshot&nl_art=0&nlid=56075707&ref=headline&te=1&_r=0"> New York Times: How a Quest by Elites Is Driving Brexit and Trump </a></div>
 <div style="text-align: right"><a
