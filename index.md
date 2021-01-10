@@ -4,7 +4,19 @@
 [Big Sisters](https://www.cgdev.org/publication/big-sisters)  
 **_CGD Working Paper 559 (October 2020)_**  
 _Joint with Owen Ozier, Lia C.H. Fernald, and Heather Knauer_  
-<div style="text-align: right"> **Media** </div>
+<details><summary>Abstract</summary>We model household investments in young children when parents and older siblings share caregiving responsibilities and when investments by older siblings contribute to young children’s human capital accumulation. To test the predictions of our model, we estimate the impact of having one older sister (as opposed to one older brother) on early childhood development in a sample of rural Kenyan households with otherwise similar family structures. Older sibling gender is not related to household structure, subsequent birth spacing, or other observable characteristics, so we treat the presence of an older girl (as opposed to an older boy) as plausibly exogenous. Having an older sister rather than an older brother improves younger siblings’ vocabulary and fine motor skills by more than 0.1 standard deviations. Viewed through the lens of our model, the empirical pattern we observe suggests that: (i) older siblings’ investments in young children contribute to their human capital accumulation, and (ii) households perceive lower returns to investing in older girls than in older boys.
+</details>  
+<div style="text-align: right"> Media Coverage: </div>
+<div style="text-align: right"><a
+ href="https://www.telegraph.co.uk/global-health/women-and-girls/children-older-sisters-developing-countries-do-better-study/amp/"> The Telegraph: Children with older sisters in developing countries do better </a></div>
+<div style="text-align: right"><a
+ href="https://www.npr.org/2020/12/16/947027225/what-impact-can-having-an-older-sister-have-on-a-childs-development"> NPR Morning Edition: What Impact Can Having An Older Sister Have On A Child's Development? </a></div>
+<div style="text-align: right"><a
+ href="https://www.npr.org/sections/goatsandsoda/2020/12/17/947566797/the-secret-to-success-having-a-big-sister"> NPR Goats and Soda: The Secret To Success? Having A Big Sister </a></div>
+<div style="text-align: right"><a
+ href="https://www.today.com/health/birth-order-are-big-sisters-key-success-t204701"> NBC's TODAY: Are big sisters the key to success? New research suggests yes </a></div>
+<div style="text-align: right"><a
+ href="https://www.yahoo.com/lifestyle/placing-too-much-burden-big-020036343.html"> Yahoo: We’re Placing Too Much Burden On The Big Sisters </a></div>
 
 ## Publications  
 [How Soon Is Now?  Evidence of Present Bias from Convex Time Budget Experiments](EXEX-BalakrishnanHaushoferJakiela-CTB.pdf)  
