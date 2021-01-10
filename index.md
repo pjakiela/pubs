@@ -111,5 +111,35 @@ We studied the distributional preferences of an elite cadre of Yale Law School s
 <div style="text-align: right"><a
  href="http://www.citylab.com/work/2015/09/why-politicians-dont-level-the-playing-field/405619/"> The Atlantic: Why Politicians Don't Level the Playing Field </a></div>
 
+<br>
+[How Fair Shares Compare:  Experimental Evidence from Two Cultures](http://pamjakiela.com/jakiela-fair-shares-final.pdf)  
+**_Journal of Economic Behavior and Organization, 2015, 118: 40-54_**  
+[Experimental Instructions](http://pamjakiela.com/jakielafairshares_instructions_english.pdf)  
+<details>
+<summary>Abstract</summary>
+We use a suite of economic experiments to study social preferences governing the distribution of earned and unearned income in rural villages in western Kenya. Our experiments vary the extent to which income depends on individual effort while holding other aspects of the economic environment constant. Results suggest that, in rural villages, the relative weight placed on others does not depend on the extent to which those individual increased the total surplus through their own effort. However, more educated subjects and those drawn from villages closer to the road do reward others for their effort; their allocation decisions are consistent with models of reciprocity.
+</details> 
 
 <br>
+[You've Earned It:  Estimating the Impact of Human Capital on Social Preferences](http://pamjakiela.com/jakielamigueltevelde.pdf)  
+**_Experimental Economics, 2015, 18(3): 385-407_**  
+_Joint with Edward Miguel and Vera te Velde_  
+[Online Appendix](http://pamjakiela.com/jakielamigueltevelde_onlineappendix.pdf)  
+<details>
+<summary>Abstract</summary>
+We combine data from a randomized evaluation and a laboratory experiment to measure the causal impact of human capital on respect for earned property rights, a component of social preferences with important implications for economic growth and development. We find that higher academic achievement reduces the willingness of young Kenyan women to appropriate others' labor income, and shifts players toward a 50-50 split norm in a modified dictator game. This study demonstrates that education may have long-run impacts on social preferences, norms and institutions beyond the human capital directly produced.
+</details> 
+
+<br>
+[How Did Distributional Preferences Change During the Great Recession?](http://pamjakiela.com/fjk-recession-2015-06-02.pdf)  
+**_Journal of Public Economics, 2015, 128: 84-95_**  
+_Joint with Raymond Fisman and Shachar Kariv_  
+[Online Appendix](http://pamjakiela.com/fjk-fullonlineappendix.pdf)  
+<details>
+<summary>Abstract</summary>
+To better understand how support for redistributive policies is shaped by macroeconomic shocks, we explore how distributional preferences changed during the recent "Great Recession." We conducted identical modified dictator games during both the recession and the preceding economic boom. The experiments capture subjects' selfishness (the weight on one's own payoff) and equality-efficiency tradeoffs (concerns for reducing differences in payoffs versus increasing total payoffs), which we then compare across economic conditions. Subjects exposed to recession exhibit greater selfishness and higher emphasis on efficiency relative to equality. Reproducing recessionary conditions inside the laboratory by confronting subjects with possible negative payoffs [weakly] intensifies selfishness and increases efficiency orientation, bolstering the interpretation that differing economic circumstances drive our results.
+</details> 
+
+<div style="text-align: right"> Media Coverage: </div>
+<div style="text-align: right"><a
+ href="http://www.vox.com/2014/6/1/5755558/the-recession-made-us-all-more-selfish"> Vox: The Recession Made Us All More Selfish </a></div>
