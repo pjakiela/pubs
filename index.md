@@ -149,7 +149,6 @@ To better understand how support for redistributive policies is shaped by macroe
 **In _Institutions, Property Rights, and Economic Growth: the Legacy of Douglass North_**  
 Cambridge University Press, edited by Sebastian Galiani and Itai Sened, 2014  
 
-<br>
 [Equity vs. Efficiency vs. Self-Interest](http://www.pamjakiela.com/jakielaEESI_7jun12.pdf)  
 **_Experimental Economics, 2013, 16(2): 208-221_**  
 [Experimental Instructions](http://pamjakiela.com/jakielaEESI_instructions.pdf)
