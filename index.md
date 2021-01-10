@@ -143,3 +143,36 @@ To better understand how support for redistributive policies is shaped by macroe
 <div style="text-align: right"> Media Coverage: </div>
 <div style="text-align: right"><a
  href="http://www.vox.com/2014/6/1/5755558/the-recession-made-us-all-more-selfish"> Vox: The Recession Made Us All More Selfish </a></div>
+ 
+<br>
+[Using Economic Experiments to Measure Informal Institutions](http://pamjakiela.com/jakiela_northchapter.pdf)  
+**In _Institutions, Property Rights, and Economic Growth: the Legacy of Douglass North_**  
+Cambridge University Press, edited by Sebastian Galiani and Itai Sened, 2014  
+
+<br>
+[Equity vs. Efficiency vs. Self-Interest](http://www.pamjakiela.com/jakielaEESI_7jun12.pdf)  
+**_Experimental Economics, 2013, 16(2): 208-221_**  
+[Experimental Instructions](http://pamjakiela.com/jakielaEESI_instructions.pdf)
+<details>
+<summary>Abstract</summary>
+We conduct modified dictator games in which price of giving varies across choice situations, and examine responses to price changes in two contexts - one where dictators divide their own earnings, and another where they divide the earnings of others. Varying the price of giving allows us to decompose social preferences into two components: the level of altruism when the price of giving is one, and the willingness to reduce aggregate payoffs to enhance equity.  Changing the source of a dictator's budget impacts her decisions because it affects the weight that she places on others' payoffs. However, we find no impacts on the willingness to trade off equity and efficiency.
+</details> 
+
+<br>
+[Social Preferences and Fairness Norms as Informal Institutions:  Experimental Evidence](http://pamjakiela.com/jakielaPandPfinal.pdf)  
+**_American Economic Review:  Papers and Proceedings, 2011, 101(3):  509-513_**  
+
+<br>
+[Microfinance Games](http://pamjakiela.com/mfgames_final.pdf)  
+**_American Economic Journal:  Applied Economics, 2010, 2(3):  60-95_**  
+_Joint with Dean Karlan, Xavier Giné, and Jonathan Morduch_  
+<details>
+<summary>Abstract</summary>
+Microfinance banks use group-based lending contracts to strengthen borrowers incentives for diligence, but the contracts are vulnerable to free-riding and collusion. We systematically unpack microfinance mechanisms through ten experimental games played in an experimental economics laboratory in urban Peru. Risk-taking broadly conforms to theoretical predictions, with dynamic incentives strongly reducing risk-taking even without group-based mechanisms. Group lending increases risk-taking, especially for risk-averse borrowers, but this is moderated when borrowers form their own groups. Group contracts benefit borrowers by creating implicit insurance against investment losses, but the costs are borne by other borrowers, especially the most risk averse.
+</details> 
+
+<br>
+
+
+
+<br>
