@@ -84,6 +84,7 @@ effective tax rate nearly doubles when kin can observe income directly. At the v
 income hidden in the laboratory experiment and worse economic outcomes outside the laboratory.
 </details>
 
+<br>
 <div style="text-align: right"> Media Coverage: </div>
 <div style="text-align: right"><a
  href="https://www.npr.org/sections/goatsandsoda/2017/09/13/542261863/cash-aid-changed-this-family-s-life-so-why-is-their-government-skeptical"> NPR: An Experiment Gives Cash Aid To The Poor. Is That Ethical? </a></div>
@@ -99,6 +100,7 @@ _Joint with Raymond Fisman, Shachar Kariv, and Daniel Markovits_
 We studied the distributional preferences of an elite cadre of Yale Law School students, a group that will assume positions of power in U.S. society. Our experimental design allows us to test whether redistributive decisions are consistent with utility maximization and to decompose underlying preferences into two qualitatively different tradeoffs: fair-mindedness versus self-interest, and equality versus efficiency. Yale Law School subjects are more consistent than subjects drawn from the American Life Panel, a diverse sample of Americans. Relative to the American Life Panel, Yale Law School subjects are also less fair-minded and substantially more efficiency-focused. We further show that our measure of equality-efficiency tradeoffs predicts Yale Law School students’ career choices: Equality-minded subjects are more likely to be employed at nonprofit organizations.
 </details>  
 
+<br>
 <div style="text-align: right"> Media Coverage: </div>
 <div style="text-align: right"><a
  href="http://www.nytimes.com/2016/07/03/upshot/how-a-quest-by-elites-is-driving-brexit-and-trump.html?em_pos=small&emc=edit_up_20160701&nl=upshot&nl_art=0&nlid=56075707&ref=headline&te=1&_r=0"> New York Times: How a Quest by Elites Is Driving Brexit and Trump </a></div>
