@@ -3,7 +3,7 @@
 ## Working Papers
 [Big Sisters](https://www.cgdev.org/publication/big-sisters)  
 **_CGD Working Paper 559 (October 2020)_**  
-_Joint with Owen Ozier, Lia C.H. Fernald, and Heather Knauer_  
+_Joint with Owen Ozier, Lia C.H. Fernald, and Heather A. Knauer_  
 <details><summary>Abstract</summary>We model household investments in young children when parents and older siblings share caregiving responsibilities and when investments by older siblings contribute to young children’s human capital accumulation. To test the predictions of our model, we estimate the impact of having one older sister (as opposed to one older brother) on early childhood development in a sample of rural Kenyan households with otherwise similar family structures. Older sibling gender is not related to household structure, subsequent birth spacing, or other observable characteristics, so we treat the presence of an older girl (as opposed to an older boy) as plausibly exogenous. Having an older sister rather than an older brother improves younger siblings’ vocabulary and fine motor skills by more than 0.1 standard deviations. Viewed through the lens of our model, the empirical pattern we observe suggests that: (i) older siblings’ investments in young children contribute to their human capital accumulation, and (ii) households perceive lower returns to investing in older girls than in older boys.
 </details>  
 <div style="text-align: right"> Media Coverage: </div>
@@ -17,6 +17,16 @@ _Joint with Owen Ozier, Lia C.H. Fernald, and Heather Knauer_
  href="https://www.today.com/health/birth-order-are-big-sisters-key-success-t204701"> NBC's TODAY: Are big sisters the key to success? New research suggests yes </a></div>
 <div style="text-align: right"><a
  href="https://www.yahoo.com/lifestyle/placing-too-much-burden-big-020036343.html"> Yahoo: We’re Placing Too Much Burden On The Big Sisters </a></div>
+
+<br>
+[Evaluating the Effects of an Early Literacy Intervention](http://www.pamjakiela.com/EMERGE-registered-report-accepted.pdf)  
+**_Accepted based on Stage 1 Pre-Results Review at Journal of Development Economics_**  
+_Joint with Lia C.H. Fernald, Healther A. Knauer, and Owen Ozier_  
+[Trial Registry Information](https://www.socialscienceregistry.org/trials/4425)  
+<details><summary>Abstract</summary>We conduct a cluster-randomized evaluation of an early literacy intervention that provided Kenyan parents with illustrated children's storybooks and modifid dialogic reading training. Rural communities were randomly assigned to treatment or control. Within treatment communities, households were further randomized to receive children's storybooks in either Luo (the mother tongue of all children in the sample) or English (a national language, and the primary language of instruction in grade 4 of primary school and beyond). We estimate the impacts of treatment on children's vocabulary and literacy skills. Our design also allows us to document
+household responses to the intervention including behavioral responses by parents and older siblings and overall impacts on parental time investments in children.</details> 
+
+<br>
 
 ## Publications  
 [How Soon Is Now?  Evidence of Present Bias from Convex Time Budget Experiments](EXEX-BalakrishnanHaushoferJakiela-CTB.pdf)  
