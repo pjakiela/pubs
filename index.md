@@ -18,7 +18,7 @@ _Joint with Owen Ozier, Lia C.H. Fernald, and Heather A. Knauer_
  href="https://www.yahoo.com/lifestyle/placing-too-much-burden-big-020036343.html"> Yahoo: We’re Placing Too Much Burden On The Big Sisters </a></div>
 
 <br>
-[Evaluating the Effects of an Early Literacy Intervention](http://www.pamjakiela.com/EMERGE-registered-report-accepted.pdf)  
+[Evaluating the Effects of an Early Literacy Intervention](EMERGE-registered-report-accepted.pdf)  
 **_Accepted based on Stage 1 Pre-Results Review at Journal of Development Economics_**  
 _Joint with Lia C.H. Fernald, Healther A. Knauer, and Owen Ozier_  
 [Trial Registry Information](https://www.socialscienceregistry.org/trials/4425)  
