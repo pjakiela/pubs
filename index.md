@@ -5,6 +5,7 @@
 **_CGD Working Paper 559 (October 2020)_**  
 _Joint with Owen Ozier, Lia C.H. Fernald, and Heather A. Knauer_  
 <details><summary>Abstract</summary>We model household investments in young children when parents and older siblings share caregiving responsibilities and when investments by older siblings contribute to young children’s human capital accumulation. To test the predictions of our model, we estimate the impact of having one older sister (as opposed to one older brother) on early childhood development in a sample of rural Kenyan households with otherwise similar family structures. Older sibling gender is not related to household structure, subsequent birth spacing, or other observable characteristics, so we treat the presence of an older girl (as opposed to an older boy) as plausibly exogenous. Having an older sister rather than an older brother improves younger siblings’ vocabulary and fine motor skills by more than 0.1 standard deviations. Viewed through the lens of our model, the empirical pattern we observe suggests that: (i) older siblings’ investments in young children contribute to their human capital accumulation, and (ii) households perceive lower returns to investing in older girls than in older boys.</details>  
+
 <div style="text-align: right"> Media Coverage: </div>
 <div style="text-align: right"><a
  href="https://www.telegraph.co.uk/global-health/women-and-girls/children-older-sisters-developing-countries-do-better-study/amp/"> The Telegraph: Children with older sisters in developing countries do better </a></div>
@@ -25,6 +26,20 @@ _Joint with Lia C.H. Fernald, Healther A. Knauer, and Owen Ozier_
 <details><summary>Abstract</summary>We conduct a cluster-randomized evaluation of an early literacy intervention that provided Kenyan parents with illustrated children's storybooks and modifid dialogic reading training. Rural communities were randomly assigned to treatment or control. Within treatment communities, households were further randomized to receive children's storybooks in either Luo (the mother tongue of all children in the sample) or English (a national language, and the primary language of instruction in grade 4 of primary school and beyond). We estimate the impacts of treatment on children's vocabulary and literacy skills. Our design also allows us to document
 household responses to the intervention including behavioral responses by parents and older siblings and overall impacts on parental time investments in children.</details> 
 
+<br>
+[Gendered Language](https://www.cgdev.org/sites/default/files/gendered-language.pdf)  
+**_CGD Working Paper #500_**  
+_Joint with Owen Ozier_  
+[Online Appendix](http://pamjakiela.com/JakielaOzier-language-online-appendix.pdf)  
+<details><summary>Abstract</summary>Languages use different systems for classifying nouns. Gender languages assign many — sometimes all — nouns to distinct sex-based categories, masculine and feminine. We construct a new data set, documenting this property for more than four thousand languages which together account for more than 99 percent of the world’s population. At the cross-country level, we find a robust negative relationship between prevalence of gender languages and women’s labor force participation.  We also show that traditional views of gender roles are more common in countries with more native speakers of gender languages. Our cross-country data also permit a novel permutation
+test, demonstrating that the patterns we find are robust to statistical correction for correlation in linguistic structure within language families. We also conduct within-country analysis in two regions where indigenous languages vary in terms of their gender structure. In four countries in Sub-Saharan Africa and in India, we show that educational attainment and female labor force participation are lower among those whose native languages use grammatical gender.</details>
+
+<div style="text-align: right"> Media Coverage: </div>
+<div style="text-align: right"><a
+ href="https://www.washingtonpost.com/dc-md-va/2019/12/05/teens-argentina-are-leading-charge-gender-neutral-language/?arc404=true"> Washington Post: Teens in Argentina are leading the charge to eliminate gender in language </a></div>
+<div style="text-align: right"><a
+ href="https://elpais.com/internacional/2019/03/18/actualidad/1552935977_717400.html"> El Pais: Puede el idioma limitar las oportunidades de las mujeres? </a></div>
+ 
 <br>
 
 ## Publications  
