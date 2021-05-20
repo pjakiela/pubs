@@ -55,7 +55,7 @@ _Joint with Vivian Hoffmann, Michael Kremer, Ryan Sheely, and Matthew Goodkin-Go
 <br>
 
 ## Publications  
-[The impact of early childhood interventions on mothers](https://science.sciencemag.org/content/372/6544/794)  
+[The impact of early childhood interventions on mothers](http://science.sciencemag.org/cgi/rapidpdf/372/6544/794?ijkey=fJq7NKzpiYCqI&keytype=ref&siteid=sci)  
 **_Science, 2021, 372(6544):  794-796_**  
 _Joint with David K. Evans and Heather A. Knauer_  
 <details><summary>Abstract</summary>
