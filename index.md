@@ -58,9 +58,9 @@ _Joint with Vivian Hoffmann, Michael Kremer, Ryan Sheely, and Matthew Goodkin-Go
 [The impact of early childhood interventions on mothers](http://science.sciencemag.org/cgi/rapidpdf/372/6544/794?ijkey=fJq7NKzpiYCqI&keytype=ref&siteid=sci)  
 **_Science, 2021, 372(6544):  794-796_**  
 _Joint with David K. Evans and Heather A. Knauer_  
-<details><summary>Abstract</summary>
-Over 250 million children in low- and middle-income countries (LMICs) are at risk of failing to meet their developmental potential, primarily because of a lack of adequate nutrition and stimulation in early childhood. Well-designed early childhood development (ECD) interventions can have substantial impacts on children's physical, cognitive, and socioemotional development, as well as their eventual schooling attainment, wages, and other outcomes. Although the potential indirect effects of interventions on mothers and other household members are generally acknowledged, few studies explicitly quantify outcomes related to labor market activities, health, or well-being of household members other than young children. This may lead policy-makers to overinvest in programs that impose substantial costs on women and to underinvest in those that improve women's well-being. Systematically ignoring impacts on specific subgroups—particularly vulnerable groups such as women in LMICs—risks exacerbating inequalities in the name of evidence-based policy.  </details>  
 
+[Summary]( http://science.sciencemag.org/cgi/content/summary/372/6544/794?ijkey=fJq7NKzpiYCqI&keytype=ref&siteid=sci)  
+[Full text](http://science.sciencemag.org/cgi/content/full/372/6544/794?ijkey=fJq7NKzpiYCqI&keytype=ref&siteid=sci)  
 
 <br>
 [Gender Gaps in Education: The Long View](https://www.cgdev.org/sites/default/files/gender-gaps-education-long-view.pdf)  
