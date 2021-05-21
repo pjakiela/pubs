@@ -2,12 +2,10 @@
 
 ## Working Papers
 [Simple Diagnostics for Two-Way Fixed Effects](https://arxiv.org/abs/2103.13229)  
-<details><summary>Abstract</summary>Difference-in-differences estimation is a widely used method of program evaluation. When treatment is implemented in different places at different times, researchers often use two-way fixed effects to control for location-specific and period-specific shocks. Such estimates can be severely biased when treatment effects change over time within treated units. I review the sources of this bias and propose several simple diagnostics for assessing its likely severity. I illustrate these tools through a case study of free primary education in Sub-Saharan Africa.</details>  
 
 [Big Sisters](https://www.cgdev.org/publication/big-sisters)  
 **_CGD Working Paper 559 (October 2020)_**  
 _Joint with Owen Ozier, Lia C.H. Fernald, and Heather A. Knauer_  
-<details><summary>Abstract</summary>We model household investments in young children when parents and older siblings share caregiving responsibilities and when investments by older siblings contribute to young children’s human capital accumulation. To test the predictions of our model, we estimate the impact of having one older sister (as opposed to one older brother) on early childhood development in a sample of rural Kenyan households with otherwise similar family structures. Older sibling gender is not related to household structure, subsequent birth spacing, or other observable characteristics, so we treat the presence of an older girl (as opposed to an older boy) as plausibly exogenous. Having an older sister rather than an older brother improves younger siblings’ vocabulary and fine motor skills by more than 0.1 standard deviations. Viewed through the lens of our model, the empirical pattern we observe suggests that: (i) older siblings’ investments in young children contribute to their human capital accumulation, and (ii) households perceive lower returns to investing in older girls than in older boys.</details>  
 
 <div style="text-align: right"> Media Coverage: </div>
 <div style="text-align: right"><a
@@ -26,16 +24,12 @@ _Joint with Owen Ozier, Lia C.H. Fernald, and Heather A. Knauer_
 **_Accepted based on Stage 1 Pre-Results Review at Journal of Development Economics_**  
 _Joint with Lia C.H. Fernald, Healther A. Knauer, and Owen Ozier_  
 [Trial Registry Information](https://www.socialscienceregistry.org/trials/4425)  
-<details><summary>Abstract</summary>We conduct a cluster-randomized evaluation of an early literacy intervention that provided Kenyan parents with illustrated children's storybooks and modifid dialogic reading training. Rural communities were randomly assigned to treatment or control. Within treatment communities, households were further randomized to receive children's storybooks in either Luo (the mother tongue of all children in the sample) or English (a national language, and the primary language of instruction in grade 4 of primary school and beyond). We estimate the impacts of treatment on children's vocabulary and literacy skills. Our design also allows us to document
-household responses to the intervention including behavioral responses by parents and older siblings and overall impacts on parental time investments in children.</details> 
 
 <br>
 [Gendered Language](https://www.cgdev.org/sites/default/files/gendered-language.pdf)  
 **_CGD Working Paper #500_**  
 _Joint with Owen Ozier_  
 [Online Appendix](http://pamjakiela.com/JakielaOzier-language-online-appendix.pdf)  
-<details><summary>Abstract</summary>Languages use different systems for classifying nouns. Gender languages assign many — sometimes all — nouns to distinct sex-based categories, masculine and feminine. We construct a new data set, documenting this property for more than four thousand languages which together account for more than 99 percent of the world’s population. At the cross-country level, we find a robust negative relationship between prevalence of gender languages and women’s labor force participation.  We also show that traditional views of gender roles are more common in countries with more native speakers of gender languages. Our cross-country data also permit a novel permutation
-test, demonstrating that the patterns we find are robust to statistical correction for correlation in linguistic structure within language families. We also conduct within-country analysis in two regions where indigenous languages vary in terms of their gender structure. In four countries in Sub-Saharan Africa and in India, we show that educational attainment and female labor force participation are lower among those whose native languages use grammatical gender.</details>
 
 <div style="text-align: right"> Media Coverage: </div>
 <div style="text-align: right"><a
@@ -48,12 +42,10 @@ test, demonstrating that the patterns we find are robust to statistical correcti
 **_World Bank Policy Resarch Working Paper #7977_**  
 _Joint with Andrew Brudevold, Maddalena Honorati, and Owen Ozier_  
 [Trial Registry Information](https://www.socialscienceregistry.org/trials/459)  
-<details><summary>Abstract</summary>This study presents results from a randomized evaluation of two labor market interventions targeted to young women aged 18 to 19 years in three of Nairobi's poorest neighborhoods. One treatment offered participants a bundled intervention designed to simultaneously relieve credit and human capital constraints; a second treatment provided women with an unrestricted cash grant, but no training or other support. Both interventions had economically large and statistically significant impacts on income over the medium term (7 to 10 months after the end of the interventions), but these impacts dissipated in the second year after treatment. The results are consistent with a model in which savings constraints prevent women from smoothing consumption after receiving large transfers -- even in the absence of credit constraints, and when participants have no intention of remaining in entrepreneurship. The study also shows that participants hold remarkably accurate beliefs about the impacts of the treatments on occupational choice.</details>
 
 <br>
 [There's No Place Like Home:  Theory and Evidence on Decentralization and Politician Preferences](https://scholar.harvard.edu/files/kremer/files/there_is_no_place_like_home_17.11.09a_date_changed.pdf)  
 _Joint with Vivian Hoffmann, Michael Kremer, Ryan Sheely, and Matthew Goodkin-Gold_  
-<details><summary>Abstract</summary>We construct a simple model in which politicians can choose to spend resources on themselves, on their home area, or on other geographic areas. The model implies that if politicians are sufficiently inclined to favor their home areas (or are particularly subject to social incentives by those in their home area), decentralization may increase social welfare and reduce corruption relative to unconstrained centralization. Furthermore, if strong home favoritism is accompanied by high levels of corruption, decentralization may also increase social welfare and reduce corruption relative to various alternative constitutional structures that limit politicians ability to direct resources to their home areas, such as delegating authority to civil servants or enforcing equal treatment rules. An incentive-compatible choice experiment in which 179 elected county councilors in rural Kenya chose among alternative water infrastructure projects reveals substantial home favoritism. We estimate that politicians value each person served in their home village more than twice as much as each person served outside their home village. Consistent with the model, politicians are more likely to value controlling the discretionary funding associated with the project when they do not control the location of the project.</details>
  
 <br>
 
