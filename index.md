@@ -1,6 +1,11 @@
 # Research
 
 ## Working Papers
+[Simple Diagnostics for Two-Way Fixed Effects](https://arxiv.org/abs/2103.13229)  
+<details><summary>Abstract</summary>Difference-in-differences estimation is a widely used method of program evaluation. When treatment is implemented in different places at different times, researchers often use two-way fixed effects to control for location-specific and period-specific shocks. Such estimates can be severely biased when treatment effects change over time within treated units. I review the sources of this bias and propose several simple diagnostics for assessing its likely severity. I illustrate these tools through a case study of free primary education in Sub-Saharan Africa.</details>  
+
+<br>
+
 [Big Sisters](https://www.cgdev.org/publication/big-sisters)  
 **_CGD Working Paper 559 (October 2020)_**  
 _Joint with Owen Ozier, Lia C.H. Fernald, and Heather A. Knauer_  
