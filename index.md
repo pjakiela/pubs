@@ -5,11 +5,10 @@
 
 [Big Sisters](https://www.cgdev.org/publication/big-sisters)  
 **_CGD Working Paper 559 (October 2020)_**  
-_Joint with Owen Ozier, Lia C.H. Fernald, and Heather A. Knauer_  
+_Joint with Owen Ozier, Lia C.H. Fernald, and Heather A. Knauer_   
 
-Media Coverage: 
-<a
- href="https://www.telegraph.co.uk/global-health/women-and-girls/children-older-sisters-developing-countries-do-better-study/amp/"> The Telegraph: Children with older sisters in developing countries do better </a></div>
+Media Coverage:  
+<a href="https://www.telegraph.co.uk/global-health/women-and-girls/children-older-sisters-developing-countries-do-better-study/amp/"> The Telegraph: Children with older sisters in developing countries do better </a></div>
 <div style="text-align: right"><a
  href="https://www.npr.org/2020/12/16/947027225/what-impact-can-having-an-older-sister-have-on-a-childs-development"> NPR Morning Edition: What Impact Can Having An Older Sister Have On A Child's Development? </a></div>
 <div style="text-align: right"><a
