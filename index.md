@@ -3,6 +3,8 @@
 ## Working Papers
 [Simple Diagnostics for Two-Way Fixed Effects](https://arxiv.org/abs/2103.13229)  
 
+<br>
+
 [Big Sisters](https://www.cgdev.org/publication/big-sisters)  
 **_CGD Working Paper 559 (October 2020)_**  
 _Joint with Owen Ozier, Lia C.H. Fernald, and Heather A. Knauer_   
@@ -16,16 +18,17 @@ Media Coverage:
 <div style="text-align: right"><a
  href="https://www.today.com/health/birth-order-are-big-sisters-key-success-t204701"> NBC's TODAY: Are big sisters the key to success? New research suggests yes </a></div>
 <div style="text-align: right"><a
- href="https://www.yahoo.com/lifestyle/placing-too-much-burden-big-020036343.html"> Yahoo: We’re Placing Too Much Burden On The Big Sisters </a>
+ href="https://www.yahoo.com/lifestyle/placing-too-much-burden-big-020036343.html"> Yahoo: We’re Placing Too Much Burden On The Big Sisters </a>  
 
-<br>
- 
+<br>  
+  
 [Evaluating the Effects of an Early Literacy Intervention](EMERGE-registered-report-accepted.pdf)  
 **_Accepted based on Stage 1 Pre-Results Review at Journal of Development Economics_**  
 _Joint with Lia C.H. Fernald, Healther A. Knauer, and Owen Ozier_  
 [Trial Registry Information](https://www.socialscienceregistry.org/trials/4425)  
 
-<br>
+<br>  
+ 
 [Gendered Language](https://www.cgdev.org/sites/default/files/gendered-language.pdf)  
 **_CGD Working Paper #500_**  
 _Joint with Owen Ozier_  
