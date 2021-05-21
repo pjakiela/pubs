@@ -68,7 +68,7 @@ _Joint with David K. Evans and Heather A. Knauer_
 <br>
 
 [Gender Gaps in Education: The Long View](https://www.cgdev.org/sites/default/files/gender-gaps-education-long-view.pdf)  
-**_IZA Journal of Development and Migrationl 2021, 12(1)_**  
+**_IZA Journal of Development and Migration, 2021, 12(1)_**  
 _Joint with David K. Evans and Maryam Akmal_
 <details><summary>Abstract</summary>Many countries remain far from achieving gender equality in the classroom. Using data from 126 countries between 1960 and 2010, we document four facts. First, women are more educated today than fifty years ago in every country in the world. Second, they remain less educated than men in the vast majority of countries. Third, in many countries with low levels of education for both men and women in 1960, gender gaps widened as more boys went to school, then narrowed as girls enrolled; thus, gender gaps got worse before they got better. Fourth, gender gaps rarely persist in countries where boys are attaining high levels of education. Most countries with large, current gender gaps have low levels of male educational attainment. Many also perform poorly on other measures of development such as life expectancy and GDP per capita. Improving girls’ education is an important goal in its own right, but closing gender gaps in education will not be sufficient to close critical gaps in adult life outcomes.</details>  
 
