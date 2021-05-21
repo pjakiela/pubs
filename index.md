@@ -7,8 +7,8 @@
 **_CGD Working Paper 559 (October 2020)_**  
 _Joint with Owen Ozier, Lia C.H. Fernald, and Heather A. Knauer_  
 
-<div style="text-align: right"> Media Coverage: </div>
-<div style="text-align: right"><a
+Media Coverage: 
+<a
  href="https://www.telegraph.co.uk/global-health/women-and-girls/children-older-sisters-developing-countries-do-better-study/amp/"> The Telegraph: Children with older sisters in developing countries do better </a></div>
 <div style="text-align: right"><a
  href="https://www.npr.org/2020/12/16/947027225/what-impact-can-having-an-older-sister-have-on-a-childs-development"> NPR Morning Edition: What Impact Can Having An Older Sister Have On A Child's Development? </a></div>
@@ -17,9 +17,10 @@ _Joint with Owen Ozier, Lia C.H. Fernald, and Heather A. Knauer_
 <div style="text-align: right"><a
  href="https://www.today.com/health/birth-order-are-big-sisters-key-success-t204701"> NBC's TODAY: Are big sisters the key to success? New research suggests yes </a></div>
 <div style="text-align: right"><a
- href="https://www.yahoo.com/lifestyle/placing-too-much-burden-big-020036343.html"> Yahoo: We’re Placing Too Much Burden On The Big Sisters </a></div>
+ href="https://www.yahoo.com/lifestyle/placing-too-much-burden-big-020036343.html"> Yahoo: We’re Placing Too Much Burden On The Big Sisters </a>
 
 <br>
+ 
 [Evaluating the Effects of an Early Literacy Intervention](EMERGE-registered-report-accepted.pdf)  
 **_Accepted based on Stage 1 Pre-Results Review at Journal of Development Economics_**  
 _Joint with Lia C.H. Fernald, Healther A. Knauer, and Owen Ozier_  
