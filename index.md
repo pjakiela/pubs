@@ -9,7 +9,7 @@
 **_CGD Working Paper 559 (October 2020)_**  
 _Joint with Owen Ozier, Lia C.H. Fernald, and Heather A. Knauer_   
 Media Coverage:  
-<a href="https://www.telegraph.co.uk/global-health/women-and-girls/children-older-sisters-developing-countries-do-better-study/amp/">The Telegraph</a>, <a href="https://www.npr.org/2020/12/16/947027225/what-impact-can-having-an-older-sister-have-on-a-childs-development">NPR Morning Edition</a>, <a href="https://www.npr.org/sections/goatsandsoda/2020/12/17/947566797/the-secret-to-success-having-a-big-sister">NPR Goats and Soda</a>, <a href="https://www.today.com/health/birth-order-are-big-sisters-key-success-t204701">NBC's TODAY</a>, <a href="https://www.yahoo.com/lifestyle/placing-too-much-burden-big-020036343.html"> Yahoo: We’re Placing Too Much Burden On The Big Sisters </a>  
+<a href="https://www.telegraph.co.uk/global-health/women-and-girls/children-older-sisters-developing-countries-do-better-study/amp/">The Telegraph</a>, <a href="https://www.npr.org/2020/12/16/947027225/what-impact-can-having-an-older-sister-have-on-a-childs-development">NPR Morning Edition</a>, <a href="https://www.npr.org/sections/goatsandsoda/2020/12/17/947566797/the-secret-to-success-having-a-big-sister">NPR Goats and Soda</a>, <a href="https://www.today.com/health/birth-order-are-big-sisters-key-success-t204701">NBC's TODAY</a>, <a href="https://www.yahoo.com/lifestyle/placing-too-much-burden-big-020036343.html">Yahoo</a>  
 
 <br>  
   
