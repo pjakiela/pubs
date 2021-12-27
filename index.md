@@ -1,11 +1,6 @@
-# Research
+# Research  
 
-### Smaller  
-#### Even Smaller  
-##### Even More Smaller 
-###### Smallest  
-
-## Working Papers
+## Working Papers  
 **[Simple Diagnostics for Two-Way Fixed Effects](https://arxiv.org/abs/2103.13229)**  
 
 **[Big Sisters](https://www.cgdev.org/publication/big-sisters)**  
