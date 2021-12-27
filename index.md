@@ -1,41 +1,31 @@
 # Research
 
 ## Working Papers
-[Simple Diagnostics for Two-Way Fixed Effects](https://arxiv.org/abs/2103.13229)  
+**[Simple Diagnostics for Two-Way Fixed Effects](https://arxiv.org/abs/2103.13229)**  
 
 **[Big Sisters](https://www.cgdev.org/publication/big-sisters)**  
-**_CGD Working Paper 559 (October 2020)_**  
+_CGD Working Paper 559 (October 2020)_  
 _Joint with Owen Ozier, Lia C.H. Fernald, and Heather A. Knauer_   
 Media Coverage: <a href="https://www.telegraph.co.uk/global-health/women-and-girls/children-older-sisters-developing-countries-do-better-study/amp/">The Telegraph</a>, <a href="https://www.npr.org/2020/12/16/947027225/what-impact-can-having-an-older-sister-have-on-a-childs-development">NPR Morning Edition</a>, <a href="https://www.npr.org/sections/goatsandsoda/2020/12/17/947566797/the-secret-to-success-having-a-big-sister">NPR Goats and Soda</a>, <a href="https://www.today.com/health/birth-order-are-big-sisters-key-success-t204701">NBC's TODAY</a>, <a href="https://www.yahoo.com/lifestyle/placing-too-much-burden-big-020036343.html">Yahoo</a>  
 
-<br>  
-  
-[Evaluating the Effects of an Early Literacy Intervention](EMERGE-registered-report-accepted.pdf)  
-**_Accepted based on Stage 1 Pre-Results Review at Journal of Development Economics_**  
+**[Evaluating the Effects of an Early Literacy Intervention](EMERGE-registered-report-accepted.pdf)**  
+_Accepted based on Stage 1 Pre-Results Review at Journal of Development Economics_  
 _Joint with Lia C.H. Fernald, Healther A. Knauer, and Owen Ozier_  
 [Trial Registry Information](https://www.socialscienceregistry.org/trials/4425)  
 
-<br>  
- 
-[Gendered Language](https://www.cgdev.org/sites/default/files/gendered-language.pdf)  
-**_CGD Working Paper #500_**  
+**[Gendered Language](https://www.cgdev.org/sites/default/files/gendered-language.pdf)**  
+_CGD Working Paper #500_  
 _Joint with Owen Ozier_  
 [Online Appendix](http://pamjakiela.com/JakielaOzier-language-online-appendix.pdf)  
+Media Coverage: <a href="https://www.washingtonpost.com/dc-md-va/2019/12/05/teens-argentina-are-leading-charge-gender-neutral-language/?arc404=true">Washington Post</a>, <a
+ href="https://elpais.com/internacional/2019/03/18/actualidad/1552935977_717400.html">El Pais</a>  
 
-<div style="text-align: right"> Media Coverage: </div>
-<div style="text-align: right"><a
- href="https://www.washingtonpost.com/dc-md-va/2019/12/05/teens-argentina-are-leading-charge-gender-neutral-language/?arc404=true"> Washington Post: Teens in Argentina are leading the charge to eliminate gender in language </a></div>
-<div style="text-align: right"><a
- href="https://elpais.com/internacional/2019/03/18/actualidad/1552935977_717400.html"> El Pais: Puede el idioma limitar las oportunidades de las mujeres? </a></div>
- 
-<br>
-[A Firm of One's Own:  Experimental Evidence On Credit Constraints and Occupational Choice](http://documents.worldbank.org/curated/en/428361487270218330/A-firm-of-ones-own-experimental-evidence-on-credit-constraints-and-occupational-choice?cid=DEC_PolicyResearchEN_D_INT)  
-**_World Bank Policy Resarch Working Paper #7977_**  
+**[A Firm of One's Own:  Experimental Evidence On Credit Constraints and Occupational Choice](http://documents.worldbank.org/curated/en/428361487270218330/A-firm-of-ones-own-experimental-evidence-on-credit-constraints-and-occupational-choice?cid=DEC_PolicyResearchEN_D_INT)**  
+_World Bank Policy Resarch Working Paper #7977_  
 _Joint with Andrew Brudevold, Maddalena Honorati, and Owen Ozier_  
 [Trial Registry Information](https://www.socialscienceregistry.org/trials/459)  
 
-<br>
-[There's No Place Like Home:  Theory and Evidence on Decentralization and Politician Preferences](https://scholar.harvard.edu/files/kremer/files/there_is_no_place_like_home_17.11.09a_date_changed.pdf)  
+**[There's No Place Like Home:  Theory and Evidence on Decentralization and Politician Preferences](https://scholar.harvard.edu/files/kremer/files/there_is_no_place_like_home_17.11.09a_date_changed.pdf)**  
 _Joint with Vivian Hoffmann, Michael Kremer, Ryan Sheely, and Matthew Goodkin-Gold_  
  
 <br>
