@@ -13,8 +13,7 @@ _Accepted based on Stage 1 Pre-Results Review at Journal of Development Economic
 _Joint with Lia C.H. Fernald, Healther A. Knauer, and Owen Ozier_  
 [Trial Registry Information](https://www.socialscienceregistry.org/trials/4425)  
 
-**[Gendered Language](https://www.cgdev.org/sites/default/files/gendered-language.pdf)**  
-_CGD Working Paper #500_  
+**[Gendered Language](https://doi.org/10.36934/wecon:2021-13)**   
 _Joint with Owen Ozier_  
 [Online Appendix](http://pamjakiela.com/JakielaOzier-language-online-appendix.pdf)  
 Media Coverage: <a href="https://www.washingtonpost.com/dc-md-va/2019/12/05/teens-argentina-are-leading-charge-gender-neutral-language/?arc404=true">Washington Post</a>, <a
