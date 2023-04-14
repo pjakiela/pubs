@@ -7,7 +7,6 @@
 _CGD Working Paper 559 (October 2020)_  
 _Joint with Owen Ozier, Lia C.H. Fernald, and Heather A. Knauer_   
 Media Coverage: <a href="https://www.telegraph.co.uk/global-health/women-and-girls/children-older-sisters-developing-countries-do-better-study/amp/">The Telegraph</a>, <a href="https://www.npr.org/2020/12/16/947027225/what-impact-can-having-an-older-sister-have-on-a-childs-development">NPR Morning Edition</a>, <a href="https://www.npr.org/sections/goatsandsoda/2020/12/17/947566797/the-secret-to-success-having-a-big-sister">NPR Goats and Soda</a>, <a href="https://www.today.com/health/birth-order-are-big-sisters-key-success-t204701">NBC's TODAY</a>, <a href="https://www.yahoo.com/lifestyle/placing-too-much-burden-big-020036343.html">Yahoo</a>  
-
 **[Evaluating the Effects of an Early Literacy Intervention](EMERGE-registered-report-accepted.pdf)**  
 _Accepted based on Stage 1 Pre-Results Review at Journal of Development Economics_  
 _Joint with Lia C.H. Fernald, Healther A. Knauer, and Owen Ozier_  
@@ -30,13 +29,13 @@ _Joint with Vivian Hoffmann, Michael Kremer, Ryan Sheely, and Matthew Goodkin-Go
 <br>
 
 ## Publications 
-**[The Distributional Preferences of Americans, 2013-2016](https://link.springer.com/article/10.1007/s10683-023-09792-z)**
-_Experimental Economics, 2023_
-_Joint with Raymond Fisman, Shachar Kariv, and Silvia Vannutelli_
+**[The Distributional Preferences of Americans, 2013-2016](https://link.springer.com/article/10.1007/s10683-023-09792-z)**  
+_Experimental Economics, 2023_  
+_Joint with Raymond Fisman, Shachar Kariv, and Silvia Vannutelli_  
 
-**[Tools to Measure the Impact of Early Childhood Development Interventions on Maternal Mental Health in Low- and Middle-Income Countries](https://www.sciencedirect.com/science/article/pii/S2666560322000676)**
-_SSM - Mental Health, 2:  100127_
-_Joint with David K. Evans, Heather A. Knauer, and Amina Mendez Acosta_
+**[Tools to Measure the Impact of Early Childhood Development Interventions on Maternal Mental Health in Low- and Middle-Income Countries](https://www.sciencedirect.com/science/article/pii/S2666560322000676)**  
+_SSM - Mental Health, 2:  100127_  
+_Joint with David K. Evans, Heather A. Knauer, and Amina Mendez Acosta_  
 
 **[The impact of early childhood interventions on mothers](http://science.sciencemag.org/cgi/rapidpdf/372/6544/794?ijkey=fJq7NKzpiYCqI&keytype=ref&siteid=sci)**  
 _Science, 2021, 372(6544):  794-796_  
