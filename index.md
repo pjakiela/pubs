@@ -29,7 +29,15 @@ _Joint with Vivian Hoffmann, Michael Kremer, Ryan Sheely, and Matthew Goodkin-Go
  
 <br>
 
-## Publications  
+## Publications 
+**[The Distributional Preferences of Americans, 2013-2016](https://link.springer.com/article/10.1007/s10683-023-09792-z)**
+_Experimental Economics, 2023_
+_Joint with Raymond Fisman, Shachar Kariv, and Silvia Vannutelli_
+
+**[Tools to Measure the Impact of Early Childhood Development Interventions on Maternal Mental Health in Low- and Middle-Income Countries](https://www.sciencedirect.com/science/article/pii/S2666560322000676)**
+_SSM - Mental Health, 2:  100127_
+_Joint with David K. Evans, Heather A. Knauer, and Amina Mendez Acosta_
+
 **[The impact of early childhood interventions on mothers](http://science.sciencemag.org/cgi/rapidpdf/372/6544/794?ijkey=fJq7NKzpiYCqI&keytype=ref&siteid=sci)**  
 _Science, 2021, 372(6544):  794-796_  
 _Joint with David K. Evans and Heather A. Knauer_  
@@ -37,7 +45,6 @@ _Joint with David K. Evans and Heather A. Knauer_
 **[Gender Gaps in Education: The Long View](https://www.cgdev.org/sites/default/files/gender-gaps-education-long-view.pdf)**  
 _IZA Journal of Development and Migration, 2021, 12(1)_  
 _Joint with David K. Evans and Maryam Akmal_
-
 
 **[How Soon Is Now?  Evidence of Present Bias from Convex Time Budget Experiments](EXEX-BalakrishnanHaushoferJakiela-CTB.pdf)**  
 _Experimental Economics, 2020, 23: 294-321_  
@@ -54,9 +61,8 @@ _Joint with Lia Fernald, Patricia Kariger, Heather Knauer, and Owen Ozier_
 **[The Impact of Violence on Individual Risk Preferences:  Evidence from a Natural Experiment](http://www.pamjakiela.com/JakielaOzier-risk-final-with-appendix.pdf)**   
 _Review of Economics and Statistics, 2019, 101(3): 547-549_  
 _Joint with Owen Ozier_  
-<div style="text-align: right"> Media Coverage: </div>
-<div style="text-align: right"><a
- href="https://soundcloud.com/user-845572280/does-violence-increase-risk-aversion-drs-pamela-jakiela-owen-ozier"> Four Questions Podcast with Alice Evans </a></div>
+Media Coverage: <a
+ href="https://soundcloud.com/user-845572280/does-violence-increase-risk-aversion-drs-pamela-jakiela-owen-ozier"> Four Questions Podcast with Alice Evans </a>
 
 **[Unconditional Cash Transfers for Clinical and Economic Outcomes Among HIV-Affected Ugandan Households:  A Bayesian Randomised Trial](https://journals.lww.com/aidsonline/Fulltext/2018/09100/Unconditional_cash_transfers_for_clinical_and.13.aspx)**  
 _AIDS, 2018, 32(14): 2023-2031_  
