@@ -56,7 +56,7 @@ _Experimental Economics, 2020, 23: 294-321_
 _Joint with Uttara Balakrishnan and Johannes Haushofer_  
 
 **[Enhancing Young Children's Language Acquisition Through Parent-Child Book Sharing: a Randomized Trial in Rural Kenya](https://reader.elsevier.com/reader/sd/pii/S0885200619300031?token=1F2F65360247614DE641216A687BF6FBCB686DE10A672999342CF31DF27B5E7DB348624A0CC87FD6A6528E06CDD2E8FE)**   
-_Early Childhood Research Quarterly, 2020, 1(1):  179-190_ 
+_Early Childhood Research Quarterly, 2020, 1(1):  179-190_  
 _Joint with Lia C.H. Fernald, Heather A. Knauer, and Owen Ozier_  
 
 **[Multilingual Assessment of Early Child Development:  Analyses from Repeated Observations of Children in Kenya](https://onlinelibrary.wiley.com/doi/full/10.1111/desc.12875)**    
