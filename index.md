@@ -1,6 +1,10 @@
 # Research  
 
 ## Working Papers  
+**[Preprimary Education and Early Childhood Development: Evidence from Government Schools in Rural Kenya]([https://arxiv.org/abs/2103.13229](https://www.cgdev.org/publication/preprimary-education-and-early-childhood-development-evidence-government-schools-rural))**
+_CGD Working Paper 660 (October 2023)_  
+_Joint with Owen Ozier, Lia C.H. Fernald, and Heather A. Knauer_
+
 **[Simple Diagnostics for Two-Way Fixed Effects](https://arxiv.org/abs/2103.13229)**  
 
 **[Big Sisters](https://www.cgdev.org/publication/big-sisters)**  
@@ -31,7 +35,7 @@ _Joint with Vivian Hoffmann, Michael Kremer, Ryan Sheely, and Matthew Goodkin-Go
 
 ## Publications 
 **[The Distributional Preferences of Americans, 2013-2016](https://link.springer.com/article/10.1007/s10683-023-09792-z)**  
-_Experimental Economics, 2023_  
+_Experimental Economics, 2023, 26:  727--748_  
 _Joint with Raymond Fisman, Shachar Kariv, and Silvia Vannutelli_  
 
 **[Tools to Measure the Impact of Early Childhood Development Interventions on Maternal Mental Health in Low- and Middle-Income Countries](https://www.sciencedirect.com/science/article/pii/S2666560322000676)**  
@@ -67,11 +71,11 @@ Media Coverage: <a
 **[Unconditional Cash Transfers for Clinical and Economic Outcomes Among HIV-Affected Ugandan Households:  A Bayesian Randomised Trial](https://journals.lww.com/aidsonline/Fulltext/2018/09100/Unconditional_cash_transfers_for_clinical_and.13.aspx)**  
 _AIDS, 2018, 32(14): 2023-2031_  
 _Joint with Ed Mills, Achyuta Adhvaryu, Josephine Birungi, Stephen Okoboi, Teddy Chimulwa, Wangisi Jonathan, Tina Achilla, Evan Popoff, Shirin Golchi, and Dean Karlan_  
+
 **[Distributional Preferences and Political Behavior](http://pamjakiela.com/FismanJakielaKarivALP-2017-accepted.pdf)**  
 _Journal of Public Economics, 2017, 155: 1-10_  
 _Joint with Raymond Fisman and Shachar Kariv_  
 [Online Appendix](http://pamjakiela.com/ALPappendix-2014-08-28.pdf)  
-
 
 **[Does Africa Need a Rotten Kin Theorem?  Experimental Evidence from Village Economies](http://pamjakiela.com/JakielaOzier-VillageEconomies-2015-06-04.pdf)**  
 _Review of Economic Studies, 2016, 83(1): 231-268_  
