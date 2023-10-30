@@ -5,12 +5,14 @@
 _CGD Working Paper 660_  
 _Joint with Owen Ozier, Lia C.H. Fernald, and Heather A. Knauer_  
 
+**[Understanding the Impacts of Paid Maternity Leave on Women's Labor Market Outcomes](BatesHallJakiela-PaidLeave-2023-10-30)**  
+_Joint with Lillian Bates and Oliver Hall_  
+
 **[Simple Diagnostics for Two-Way Fixed Effects](https://arxiv.org/abs/2103.13229)**  
 
-**[Big Sisters](https://www.cgdev.org/publication/big-sisters)**  
+**[Big Sisters](big-sisters-2023-06-16.pdf)**  
 _CGD Working Paper 559_  
 _Joint with Owen Ozier, Lia C.H. Fernald, and Heather A. Knauer_   
-  
 Media Coverage: <a href="https://www.telegraph.co.uk/global-health/women-and-girls/children-older-sisters-developing-countries-do-better-study/amp/">The Telegraph</a>, <a href="https://www.npr.org/2020/12/16/947027225/what-impact-can-having-an-older-sister-have-on-a-childs-development">NPR Morning Edition</a>, <a href="https://www.npr.org/sections/goatsandsoda/2020/12/17/947566797/the-secret-to-success-having-a-big-sister">NPR Goats and Soda</a>, <a href="https://www.today.com/health/birth-order-are-big-sisters-key-success-t204701">NBC's TODAY</a>, <a href="https://www.yahoo.com/lifestyle/placing-too-much-burden-big-020036343.html">Yahoo</a>  
 
 **[Evaluating the Effects of an Early Literacy Intervention](EMERGE-registered-report-accepted.pdf)**  
@@ -18,7 +20,7 @@ _Accepted based on Stage 1 Pre-Results Review at Journal of Development Economic
 _Joint with Lia C.H. Fernald, Healther A. Knauer, and Owen Ozier_  
 [Trial Registry Information](https://www.socialscienceregistry.org/trials/4425)  
 
-**[Gendered Language](https://doi.org/10.36934/wecon:2021-13)**   
+**[Gendered Language](JakielaOzier-2022-01-26.pdf)**   
 _Joint with Owen Ozier_  
 [Online Appendix](http://pamjakiela.com/JakielaOzier-language-online-appendix.pdf)  
 Media Coverage: <a href="https://www.washingtonpost.com/dc-md-va/2019/12/05/teens-argentina-are-leading-charge-gender-neutral-language/?arc404=true">Washington Post</a>, <a
@@ -26,8 +28,7 @@ Media Coverage: <a href="https://www.washingtonpost.com/dc-md-va/2019/12/05/teen
 
 **[A Firm of One's Own:  Experimental Evidence On Credit Constraints and Occupational Choice](BHIJO-microfranchising-2023-04-14.pdf)**    
 _Joint with Andrew Brudevold, Maddalena Honorati, Gerald Ipapa, and Owen Ozier_  
-[Trial Registry Information](https://www.socialscienceregistry.org/trials/459)  
-_An earlier version of this paper was circulated as World Bank Policy Resarch Working Paper #7977_
+[Trial Registry Information](https://www.socialscienceregistry.org/trials/459)   
 
 **[There's No Place Like Home:  Theory and Evidence on Decentralization and Politician Preferences](https://scholar.harvard.edu/files/kremer/files/there_is_no_place_like_home_17.11.09a_date_changed.pdf)**  
 _Joint with Vivian Hoffmann, Michael Kremer, Ryan Sheely, and Matthew Goodkin-Gold_  
