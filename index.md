@@ -13,10 +13,10 @@ _Joint with Lillian Bates and Oliver Hall_
 **[Big Sisters](big-sisters-2023-06-16.pdf)**  
 _CGD Working Paper 559_  
 _Joint with Owen Ozier, Lia C.H. Fernald, and Heather A. Knauer_   
-Media Coverage: <a href="https://www.telegraph.co.uk/global-health/women-and-girls/children-older-sisters-developing-countries-do-better-study/amp/">The Telegraph</a>, <a href="https://www.npr.org/2020/12/16/947027225/what-impact-can-having-an-older-sister-have-on-a-childs-development">NPR Morning Edition</a>, <a href="https://www.npr.org/sections/goatsandsoda/2020/12/17/947566797/the-secret-to-success-having-a-big-sister">NPR Goats and Soda</a>, <a href="https://www.today.com/health/birth-order-are-big-sisters-key-success-t204701">NBC's TODAY</a>, <a href="https://www.yahoo.com/lifestyle/placing-too-much-burden-big-020036343.html">Yahoo</a>  
+Media Coverage: <a href="https://www.npr.org/2020/12/16/947027225/what-impact-can-having-an-older-sister-have-on-a-childs-development">NPR Morning Edition</a>, <a href="https://www.npr.org/sections/goatsandsoda/2020/12/17/947566797/the-secret-to-success-having-a-big-sister">NPR Goats and Soda</a>, <a href="https://www.today.com/health/birth-order-are-big-sisters-key-success-t204701">NBC's TODAY</a>  
 
 **[Evaluating the Effects of an Early Literacy Intervention](EMERGE-registered-report-accepted.pdf)**  
-_Accepted based on Stage 1 Pre-Results Review at Journal of Development Economics_  
+_Accepted based on Stage 1 Pre-Results Review at Journal of Development Economics_    
 _Joint with Lia C.H. Fernald, Healther A. Knauer, and Owen Ozier_  
 [Trial Registry Information](https://www.socialscienceregistry.org/trials/4425)  
 
@@ -37,7 +37,7 @@ _Joint with Vivian Hoffmann, Michael Kremer, Ryan Sheely, and Matthew Goodkin-Go
 
 ## Publications 
 **[The Distributional Preferences of Americans, 2013-2016](https://link.springer.com/article/10.1007/s10683-023-09792-z)**  
-_Experimental Economics, 2023, 26:  727--748_  
+_Experimental Economics, 2023, 26:  727-748_  
 _Joint with Raymond Fisman, Shachar Kariv, and Silvia Vannutelli_  
 
 **[Tools to Measure the Impact of Early Childhood Development Interventions on Maternal Mental Health in Low- and Middle-Income Countries](https://www.sciencedirect.com/science/article/pii/S2666560322000676)**  
