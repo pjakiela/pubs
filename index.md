@@ -1,7 +1,7 @@
 # Research  
 
 ## Working Papers  
-**[Preprimary Education and Early Childhood Development: Evidence from Government Schools in Rural Kenya]([https://arxiv.org/abs/2103.13229](https://www.cgdev.org/publication/preprimary-education-and-early-childhood-development-evidence-government-schools-rural))**  
+**[Preprimary Education and Early Childhood Development: Evidence from Government Schools in Rural Kenya](https://www.cgdev.org/publication/preprimary-education-and-early-childhood-development-evidence-government-schools-rural)**  
 _CGD Working Paper 660_  
 _Joint with Owen Ozier, Lia C.H. Fernald, and Heather A. Knauer_  
 
