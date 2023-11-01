@@ -5,7 +5,8 @@
 _CGD Working Paper 660_  
 _Joint with Owen Ozier, Lia C.H. Fernald, and Heather A. Knauer_  
 
-**[Understanding the Impacts of Paid Maternity Leave on Women's Labor Market Outcomes](BatesHallJakiela-PaidLeave-2023-10-30.pdf)**  
+**[Understanding the Impacts of Paid Maternity Leave on Women's Labor Market Outcomes](https://docs.iza.org/dp16565.pdf)**  
+_IZA Discussion Paper No. 16565_  
 _Joint with Lillian Bates and Oliver Hall_  
 
 **[Simple Diagnostics for Two-Way Fixed Effects](https://arxiv.org/abs/2103.13229)**  
