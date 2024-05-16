@@ -37,6 +37,14 @@ _Joint with Vivian Hoffmann, Michael Kremer, Ryan Sheely, and Matthew Goodkin-Go
 <br>
 
 ## Publications 
+**[The Role of Fathers in Promoting Early Childhood Development in Low- and Middle-Income Countries: A Review of the Evidence](https://www.cgdev.org/publication/role-fathers-promoting-early-childhood-development-low-and-middle-income-countries)**  
+_World Bank Research Observer, forthcoming_  
+_Joint with David K. Evans_  
+
+**[The Impacts of Childcare Interventions on Children’s Outcomes in Low- and Middle-Income Countries: A Systematic Review](https://www.cgdev.org/publication/impacts-childcare-interventions-childrens-outcomes-low-and-middle-income-countries)**  
+_AEA Papers Proceedings, forthcoming_  
+_Joint with David K. Evans and Amina Mendez Acosta_  
+
 **[The Distributional Preferences of Americans, 2013-2016](https://link.springer.com/article/10.1007/s10683-023-09792-z)**  
 _Experimental Economics, 2023, 26:  727-748_  
 _Joint with Raymond Fisman, Shachar Kariv, and Silvia Vannutelli_  
