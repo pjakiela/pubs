@@ -27,22 +27,23 @@ _Joint with Owen Ozier_
 Media Coverage: <a href="https://www.washingtonpost.com/dc-md-va/2019/12/05/teens-argentina-are-leading-charge-gender-neutral-language/?arc404=true">Washington Post</a>, <a
  href="https://elpais.com/internacional/2019/03/18/actualidad/1552935977_717400.html">El Pais</a>  
 
-**[A Firm of One's Own:  Experimental Evidence On Credit Constraints and Occupational Choice](BHIJO-microfranchising-2023-04-14.pdf)**    
-_Joint with Andrew Brudevold, Maddalena Honorati, Gerald Ipapa, and Owen Ozier_  
-[Trial Registry Information](https://www.socialscienceregistry.org/trials/459)   
-
 **[There's No Place Like Home:  Theory and Evidence on Decentralization and Politician Preferences](https://scholar.harvard.edu/files/kremer/files/there_is_no_place_like_home_17.11.09a_date_changed.pdf)**  
 _Joint with Vivian Hoffmann, Michael Kremer, Ryan Sheely, and Matthew Goodkin-Gold_  
  
 <br>
 
 ## Publications 
+**[A Firm of One's Own:  Experimental Evidence On Credit Constraints and Occupational Choice](BHIJO-REStat-2024-05-24.pdf)**   
+_Review of Economics and Statistics, conditionally accepted_
+_Joint with Andrew Brudevold, Maddalena Honorati, Gerald Ipapa, and Owen Ozier_  
+[Trial Registry Information](https://www.socialscienceregistry.org/trials/459)   
+
 **[The Role of Fathers in Promoting Early Childhood Development in Low- and Middle-Income Countries: A Review of the Evidence](https://www.cgdev.org/publication/role-fathers-promoting-early-childhood-development-low-and-middle-income-countries)**  
 _World Bank Research Observer, forthcoming_  
 _Joint with David K. Evans_  
 
 **[The Impacts of Childcare Interventions on Children’s Outcomes in Low- and Middle-Income Countries: A Systematic Review](https://www.cgdev.org/publication/impacts-childcare-interventions-childrens-outcomes-low-and-middle-income-countries)**  
-_AEA Papers Proceedings, forthcoming_  
+_AEA Papers Proceedings, 2024, 114: 463-466_  
 _Joint with David K. Evans and Amina Mendez Acosta_  
 
 **[The Distributional Preferences of Americans, 2013-2016](https://link.springer.com/article/10.1007/s10683-023-09792-z)**  
