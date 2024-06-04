@@ -34,7 +34,7 @@ _Joint with Vivian Hoffmann, Michael Kremer, Ryan Sheely, and Matthew Goodkin-Go
 
 ## Publications 
 **[A Firm of One's Own:  Experimental Evidence On Credit Constraints and Occupational Choice](BHIJO-REStat-2024-05-24.pdf)**   
-_Review of Economics and Statistics, conditionally accepted_
+_Review of Economics and Statistics, conditionally accepted_  
 _Joint with Andrew Brudevold, Maddalena Honorati, Gerald Ipapa, and Owen Ozier_  
 [Trial Registry Information](https://www.socialscienceregistry.org/trials/459)   
 
