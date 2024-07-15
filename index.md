@@ -1,9 +1,6 @@
 # Research  
 
 ## Working Papers  
-**[Preprimary Education and Early Childhood Development: Evidence from Government Schools in Rural Kenya](https://www.cgdev.org/publication/preprimary-education-and-early-childhood-development-evidence-government-schools-rural)**  
-_CGD Working Paper 660_  
-_Joint with Owen Ozier, Lia C.H. Fernald, and Heather A. Knauer_  
 
 **[Understanding the Impacts of Paid Maternity Leave on Women's Labor Market Outcomes](https://docs.iza.org/dp16565.pdf)**  
 _IZA Discussion Paper No. 16565_  
@@ -33,16 +30,21 @@ _Joint with Vivian Hoffmann, Michael Kremer, Ryan Sheely, and Matthew Goodkin-Go
 <br>
 
 ## Publications 
+
+**[Preprimary Education and Early Childhood Development: Evidence from Government Schools in Rural Kenya](preschool-JDE-2024-07-03.pdf)**  
+_Journal of Development Economics, accepted for publication_
+_Joint with Owen Ozier, Lia C.H. Fernald, and Heather A. Knauer_  
+
 **[A Firm of One's Own:  Experimental Evidence On Credit Constraints and Occupational Choice](BHIJO-REStat-2024-05-24.pdf)**   
 _Review of Economics and Statistics, conditionally accepted_  
 _Joint with Andrew Brudevold, Maddalena Honorati, Gerald Ipapa, and Owen Ozier_  
 [Trial Registry Information](https://www.socialscienceregistry.org/trials/459)   
 
-**[The Role of Fathers in Promoting Early Childhood Development in Low- and Middle-Income Countries: A Review of the Evidence](https://www.cgdev.org/publication/role-fathers-promoting-early-childhood-development-low-and-middle-income-countries)**  
+**[The Role of Fathers in Promoting Early Childhood Development in Low- and Middle-Income Countries: A Review of the Evidence](https://academic.oup.com/wbro/advance-article-abstract/doi/10.1093/wbro/lkae009/7690325?utm_source=advanceaccess&utm_campaign=wbro&utm_medium=email)**  
 _World Bank Research Observer, forthcoming_  
 _Joint with David K. Evans_  
 
-**[The Impacts of Childcare Interventions on Children’s Outcomes in Low- and Middle-Income Countries: A Systematic Review](https://www.cgdev.org/publication/impacts-childcare-interventions-childrens-outcomes-low-and-middle-income-countries)**  
+**[The Impacts of Childcare Interventions on Children’s Outcomes in Low- and Middle-Income Countries: A Systematic Review](https://www.aeaweb.org/articles?id=10.1257/pandp.20241015)**  
 _AEA Papers Proceedings, 2024, 114: 463-466_  
 _Joint with David K. Evans and Amina Mendez Acosta_  
 
