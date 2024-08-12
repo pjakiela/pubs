@@ -34,6 +34,7 @@ _Joint with Vivian Hoffmann, Michael Kremer, Ryan Sheely, and Matthew Goodkin-Go
 **[Preprimary Education and Early Childhood Development: Evidence from Government Schools in Rural Kenya](preschool-JDE-2024-07-03.pdf)**  
 _Journal of Development Economics, accepted for publication_  
 _Joint with Owen Ozier, Lia C.H. Fernald, and Heather A. Knauer_  
+[Replication Files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UV8BOW)  
 
 **[A Firm of One's Own:  Experimental Evidence On Credit Constraints and Occupational Choice](BHIJO-REStat-2024-05-24.pdf)**   
 _Review of Economics and Statistics, conditionally accepted_  
