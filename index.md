@@ -31,8 +31,8 @@ _Joint with Vivian Hoffmann, Michael Kremer, Ryan Sheely, and Matthew Goodkin-Go
 
 ## Publications 
 
-**[Preprimary Education and Early Childhood Development: Evidence from Government Schools in Rural Kenya](preschool-JDE-2024-07-03.pdf)**  
-_Journal of Development Economics, accepted for publication_  
+**[Preprimary Education and Early Childhood Development: Evidence from Government Schools in Rural Kenya](https://www.sciencedirect.com/science/article/pii/S0304387824000865?dgcid=author)**  
+_Journal of Development Economics, 171: 103337_  
 _Joint with Owen Ozier, Lia C.H. Fernald, and Heather A. Knauer_  
 [Replication Files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UV8BOW)  
 
